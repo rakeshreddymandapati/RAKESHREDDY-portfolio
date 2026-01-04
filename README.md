@@ -1,16 +1,52 @@
-# React + Vite
+# 🚀 Rakesh Reddy Mandapati – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website showcasing my skills, projects, education, experience, and certifications.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+👉 https://YOUR-VERCEL-LINK.vercel.app  
+*(Replace this after deployment)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
+I am a Computer Science student passionate about **AI, Machine Learning, and Full-Stack Web Development**.  
+I enjoy solving real-world problems by building efficient, scalable, and user-friendly applications.
 
-## React Compiler
+## 🛠 Tech Stack
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS
+- **Language:** JavaScript
+- **Icons:** Lucide React
+- **Deployment:** Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- 🌙 Dark & Light Mode Toggle (Desktop + Mobile)
+- 📱 Fully Responsive Design
+- 🎨 Modern UI with animations
+- 🧑‍💼 Experience Section
+- 🎓 Education Section
+- 📜 Certifications with downloadable PDFs
+- 📄 Resume Download
+- 📬 Contact Section
 
-## Expanding the ESLint configuration
+## 📂 Sections Included
+- Hero / Introduction
+- About Me
+- Skills
+- Projects
+- Experience
+- Education
+- Certifications
+- Contact
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏆 Certifications
+- MongoDB Associate Database Administrator – MongoDB  
+- Introduction to Machine Learning – NPTEL (IIT Madras)  
+- Oracle Generative AI Professional – Oracle  
+- Salesforce Certified AI Associate – Salesforce  
+- AWS Academy Graduate – Cloud Foundations  
+- AWS Academy Graduate – Cloud Architecting  
+- Web Development Internship – SkillCraft Technology  
+
+## ⚙️ Setup & Run Locally
+```bash
+npm install
+npm run dev
