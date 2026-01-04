@@ -3,8 +3,9 @@
 A modern, responsive personal portfolio website showcasing my skills, projects, education, experience, and certifications.
 
 ## 🔗 Live Demo
-👉 https://YOUR-VERCEL-LINK.vercel.app  
-*(Replace this after deployment)*
+## 🚀 Live Portfolio
+👉 https://rakeshreddy-portfolio.vercel.app
+
 
 ## 👨‍💻 About Me
 I am a Computer Science student passionate about **AI, Machine Learning, and Full-Stack Web Development**.  
